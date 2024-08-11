@@ -36,7 +36,7 @@ Follow the steps below to get the Sorting Visualizer project up and running:
 
 ## Contribution
 
-Contributions to this project are welcome and encouraged. If you want to contribute to the Sorting Visualizer, follow these steps:
+Contributions to this project are welcome and encouraged. If you want to contribute to the Sorting Visualizer, and also criticis, new idea, any updation always welcome, Discussions section is open for it.  follow these steps:
 
 1. Fork the repository on GitHub.
 
