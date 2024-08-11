@@ -334,6 +334,6 @@ https://github.com/user-attachments/assets/16c61705-ef3f-4f9f-8bce-e4d852845a5c
 
 We would like to thank all the contributors and open-source projects that made this Sorting Visualizer possible. Your dedication and effort are greatly appreciated.
 
-Special thanks to [Timo Bingmann](https://youtu.be/kPRA0W1kECg?si=WSsOaFkJ_InSas42) for motivate and inspired me to build this project.
+Special thanks to [Daniel Shiffman](https://youtu.be/67k3I2GxTH8?si=yAY-LQgcE47QRcg3) for motivate and inspired me to build this project.
 
 Happy Sorting!
