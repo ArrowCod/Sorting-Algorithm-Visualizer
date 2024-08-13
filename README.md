@@ -2,6 +2,8 @@
 
 A sorting algorithm visualizer is like a colorful playground for numbers. You can watch as the numbers race, swap, and line up in perfect order, all with just a few clicks. It’s simple to use and fun to watch, turning complex code into an easy-to-follow animation. Whether it’s a slow bubble sort or a fast quicksort, each algorithm has its own unique style, making the whole process both entertaining and educational. Just sit back, relax, and enjoy the show as the numbers sort themselves out in a visually appealing way!
 
+ Try this impresive tools and enjoy [Try Sort](https://sortxtools.netlify.app/)
+
 ## Technology
  ![Html](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)![Css](https://img.icons8.com/?size=100&id=21278&format=png&color=000000 )![JavaScript](https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000)![Bootstrap]( https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000)
 
